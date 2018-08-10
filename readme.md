@@ -55,7 +55,6 @@ article_id/title/body
 
 ### Author
 
-Brad Traversy
 Ilman Manarul Qori Ref. Traversy
 
 ### Version
